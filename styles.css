@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.countrydiv{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 45%;
+    height: 150px;
+    text-align: center;
+    margin-top: 20px;
+}
+  
+.countrydiv>div{
+
+    padding: 24px;
+}
+#select{
+    width: 80%;
+    height: 30px;
+}
